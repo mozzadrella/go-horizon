@@ -7,6 +7,8 @@ Your contribution will support access to a more fluid, open and transparent fina
 We appreciate contributions, and will do our best to respond and merge quickly. 
 
 # Where You Can Find Help
+* #stellar-dev IRC channel on freenode.org
+* #dev channel on [Slack](http://slack.stellar.org)
 
 
 
@@ -66,8 +68,7 @@ an issue number.
 * <a href="https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form">Contributor License Agreement</a>
 * [Explore the API](http://docs.stellarhorizon.apiary.io/)
 * [Readme for go-horizon](https://github.com/stellar/go-horizon/blob/master/README.md)
-* #stellar-dev IRC channel on freenode.org
-* #dev channel on [Slack](http://slack.stellar.org)
+
 
 
 This document is inspired by:
