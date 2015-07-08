@@ -1,5 +1,7 @@
 # Why Contribute to Stellar
 
+![Stellar Logo](/images/logo.png)
+
 Stellar is a universal network that expands financial services to anyone with Internet or mobile access. It lays the groundwork for an economy where anyone—from a mother selling handmade crafts in Nicaragua, to the owner of a daycare center in Indonesia—can transact seamlessly.
 
 Your contribution will support access to a more fluid, open and transparent financial system, moving towards increasing access for the 2 billion world-wide unbanked. 
@@ -9,6 +11,8 @@ We appreciate contributions, and will do our best to respond and merge quickly.
 # Where You Can Find Help
 * #stellar-dev IRC channel on freenode.org
 * #dev channel on [Slack](http://slack.stellar.org)
+
+
 
 
 
